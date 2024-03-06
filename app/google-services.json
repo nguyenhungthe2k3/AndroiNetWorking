@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "181129369335",
+    "project_id": "sp24-b2-and103-md18304-bbd22",
+    "storage_bucket": "sp24-b2-and103-md18304-bbd22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181129369335:android:9b452f5a1a32c9dcbb25f2",
+        "android_client_info": {
+          "package_name": "com.thenhph22409.myapp22409"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJPYGtflEOaGXi-4lwjprPefC_P58YWDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
